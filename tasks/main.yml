@@ -45,4 +45,5 @@
   rescue:
     - name:
       debug:
-          msg: "It look lokes your master/Name node is not ready or have any firewalld security enabled. Please make master node ready or disable firewalld security on both nodes then restart datanode again or run this again..."
+          msg: "It look lokes your master/Name node is not ready or have any firewalld security enabled.
+          Please make master node ready or disable firewalld security on both nodes then restart datanode again or run this again..."
