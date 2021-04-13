@@ -1,0 +1,4 @@
+---
+port_no: 9000
+slave_path: "/dn1"
+pkg_path: "/root"
